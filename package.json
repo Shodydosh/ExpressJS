@@ -23,5 +23,8 @@
   "homepage": "https://github.com/Shodydosh/ExpressJS#readme",
   "dependencies": {
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
