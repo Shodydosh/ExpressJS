@@ -12,3 +12,6 @@ https://www.npmjs.com/package/nodemon
 
 # Morgan
 https://www.npmjs.com/package/morgan
+
+# Handlebars
+https://www.npmjs.com/package/express-handlebars
