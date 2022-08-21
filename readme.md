@@ -22,3 +22,7 @@ https://stackoverflow.com/questions/45589179/npm-install-throwing-error-in-node-
 
 # Bootstrap 4
 https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+# Basic Routing
+https://github.com/Shodydosh/ExpressJS/issues/6 \
+https://freetuts.net/hieu-ve-request-va-response-trong-lap-trinh-web-676.html
