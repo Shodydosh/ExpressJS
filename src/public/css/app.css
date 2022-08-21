@@ -1,11 +1,9 @@
-h1 {
-  color: green;
-  font-size: 100px;
+#navbar-brand {
+  color: aliceblue;
 }
 
-h2 {
-  color: rgb(52, 190, 155);
-  font-size: 150px;
+.header {
+  color: aliceblue;
 }
 
 /*# sourceMappingURL=app.css.map */
