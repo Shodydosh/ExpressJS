@@ -15,3 +15,6 @@ https://www.npmjs.com/package/morgan
 
 # Handlebars
 https://www.npmjs.com/package/express-handlebars
+
+# Node-Sass
+https://www.npmjs.com/package/node-sass
